@@ -75,6 +75,10 @@ body{
     text-align: center;
     margin-top: 10px;
 }
+#text-container p{
+    text-align: center;
+    
+}
 #about-section::after{
     content: "";
     display: table;
@@ -130,8 +134,7 @@ height: 500px;
 button{
     border: none;
     background-color: grey;
-    font-family: serif;
-    font-family: 15px;
+    font-family: 'Courier New', Courier, monospace;
     padding: 15px;
 }
 #footer{
